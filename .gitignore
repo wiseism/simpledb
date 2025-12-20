@@ -6,4 +6,5 @@ build
 
 # Ignore the DB
 studentdb/
-
+.idea/
+target/
